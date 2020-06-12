@@ -1,6 +1,6 @@
 body{
     margin: 0; padding: 0; background: url(beach.jpg); background-size: cover; background-attachment: fixed;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: 'Times New Roman', Times, serif; background-repeat: no-repeat;
 }
 .loginbox{
     position: relative;  top: 25%; left: 50%; transform: translate(-50%, 50%);
